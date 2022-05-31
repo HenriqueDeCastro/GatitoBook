@@ -3,9 +3,9 @@
 ### Description
 <div>
   <p>
-    Design for social networks of cats.
+    Social network for pictures of cats.
     <br> 
-    Purpose of Angular studies only, without focusing on style and design.
+    Project objective was to learn basic Angular, that is, routes, services, guards and rxjs.
   </p>
 </div>
 
